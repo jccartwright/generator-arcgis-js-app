@@ -28,7 +28,7 @@
     "escodegen": "^1.8.0",
     "esprima-fb": "^15001.1001.0-dev-harmony-fb",
     "esprima-walk": "^0.1.0",
-    "fs-extra": "^0.30.0",
+    "fs-extra": "^1.0.0",
     "mocha": "^2.5.3",
     "underscore.string": "^3.3.4",
     "yeoman-generator": "^0.24.1",
